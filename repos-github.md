@@ -911,6 +911,7 @@
 - sbt/sbt-web
 - sbt/sbt-web-build-base
 - sbt/setup-sbt
+- sbt/sbtn-dist
 - sbt/zinc
 - ScalablyTyped/Converter
 - ScalaConsultants/mesmer-akka-agent
